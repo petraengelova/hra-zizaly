@@ -1,2 +1,2 @@
-# hra-zizaly
+# Hra Žižaly
 Hra žížaly, jQuery
