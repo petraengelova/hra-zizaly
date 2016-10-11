@@ -1,0 +1,291 @@
+#deska{
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 1300px;
+	height: 800px;
+	background-image: url("obrazky/deska.svg");
+}
+
+div#1{
+	background-color: green;
+	position: absolute;
+	top: 0;
+	left: 0;
+
+}
+
+.policko1{
+	position: absolute;
+	width: 142px;
+	height:142px;
+	top:616px;
+	left:54px;
+}
+
+.policko2{
+	position: absolute;
+	width: 145px;
+	height:142px;
+	top:616px;
+	left:200px;
+}
+
+.policko3{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 616px;
+	left: 350px;
+}
+
+.policko4{
+	position: absolute;
+	width: 140px;
+	height: 141px;
+	top: 616px;
+	left: 500px;
+}
+
+.policko5{
+	position: absolute;
+	width: 141px;
+	height: 142px;
+	top: 616px;
+	left: 648px;
+}
+
+.policko6{
+	position: absolute;
+	width: 142px;
+	height: 141px;
+	top: 616px;
+	left: 796px;
+}
+
+.policko7{
+	position: absolute;
+	width: 142px;
+	height: 141px;
+	top: 616px;
+	left: 944px;
+}
+
+.policko8{
+	position: absolute;
+	width: 142px;
+	height: 165px;
+	top: 593px;
+	left: 1093px;
+}
+
+.policko9{
+	position: absolute;
+	width: 142px;
+	height: 163px;
+	top: 425px;
+	left: 1093px;
+}
+
+.policko10{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 425px;
+	left: 943px;
+}
+
+.policko11{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 426px;
+	left: 795px;
+}
+
+.policko12{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 426px;
+	left: 647px;
+}
+
+.policko13{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 426px;
+	left: 500px;
+}
+
+.policko14{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 426px;
+	left: 350px;
+}
+
+.policko15{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 426px;
+	left: 202px;
+}
+
+.policko16{
+	position: absolute;
+	width: 142px;
+	height: 165px;
+	top: 405px;
+	left: 54px;
+}
+
+.policko17{
+	position: absolute;
+	width: 142px;
+	height: 165px;
+	top: 235px;
+	left: 54px;
+}
+
+.policko18{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 235px;
+	left: 202px;
+}
+
+.policko19{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 235px;
+	left: 350px;
+}
+
+.policko20{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 235px;
+	left: 500px;
+}
+
+.policko21{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 235px;
+	left: 647px;
+}
+
+.policko22{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 235px;
+	left: 795px;
+}
+
+.policko23{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 235px;
+	left: 943px;
+}
+
+.policko24{
+	position: absolute;
+	width: 142px;
+	height: 163px;
+	top: 212px;
+	left: 1093px;
+}
+
+.policko25{
+	position: absolute;
+	width: 142px;
+	height: 165px;
+	top: 42px;
+	left: 1093px;
+}
+
+.policko26{
+	position: absolute;
+	width: 142px;
+	height: 141px;
+	top: 44px;
+	left: 944px;
+}
+
+.policko27{
+	position: absolute;
+	width: 142px;
+	height: 141px;
+	top: 45px;
+	left: 796px;
+}
+
+.policko28{
+	position: absolute;
+	width: 141px;
+	height: 142px;
+	top: 44px;
+	left: 648px;
+}
+
+.policko29{
+	position: absolute;
+	width: 140px;
+	height: 141px;
+	top: 45px;
+	left: 500px;
+}
+
+.policko30{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 45px;
+	left: 350px;
+}
+
+.policko31{
+	position: absolute;
+	width: 145px;
+	height:142px;
+	top:45px;
+	left:200px;
+}
+
+.policko32{
+	position: absolute;
+	width: 142px;
+	height: 142px;
+	top: 45px;
+	left: 54px;
+}
+
+.sfigurkou1{
+	background-image: url("obrazky/figurka.svg");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.sfigurkou2{
+	background-image: url("obrazky/figurka2.svg");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.sfigurkou1.sfigurkou2{
+	background-image: url("obrazky/obefigurky.svg");
+	background-repeat: no-repeat;
+	background-position: center center;	
+
+}
